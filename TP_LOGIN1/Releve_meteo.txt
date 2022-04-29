@@ -1,0 +1,576 @@
+2018-06-01	00h05mn01s	temperature	16	°C
+2018-06-01	00h05mn05s	humidite	70	%
+2018-06-01	00h05mn10s	vitesse		7	km/h
+2018-06-01	00h05mn15s	direction	NE
+2018-06-01	01h05mn01s	temperature	17	°C
+2018-06-01	01h05mn05s	humidite	73	%
+2018-06-01	01h05mn10s	vitesse		6	km/h
+2018-06-01	01h05mn15s	direction	NE
+2018-06-01	02h05mn01s	temperature	18	°C
+2018-06-01	02h05mn05s	humidite	75	%
+2018-06-01	02h05mn10s	vitesse		9	km/h
+2018-06-01	02h05mn15s	direction	NE
+2018-06-01	03h05mn01s	temperature	18	°C
+2018-06-01	03h05mn05s	humidite	74	%
+2018-06-01	03h05mn10s	vitesse		7	km/h
+2018-06-01	03h05mn15s	direction	N
+2018-06-01	04h05mn00s	temperature	18	°C
+2018-06-01	04h05mn05s	humidite	75	%
+2018-06-01	04h05mn10s	vitesse		7	km/h
+2018-06-01	04h05mn15s	direction	NE
+2018-06-01	05h05mn01s	temperature	19	°C
+2018-06-01	05h05mn05s	humidite	74	%
+2018-06-01	05h05mn10s	vitesse		7	km/h
+2018-06-01	05h05mn15s	direction	N
+2018-06-01	06h05mn01s	temperature	19	°C
+2018-06-01	06h05mn05s	humidite	78	%
+2018-06-01	06h05mn10s	vitesse		5	km/h
+2018-06-01	06h05mn15s	direction	NE
+2018-06-01	07h05mn01s	temperature	19	°C
+2018-06-01	07h05mn05s	humidite	77	%
+2018-06-01	07h05mn10s	vitesse		6	km/h
+2018-06-01	07h05mn15s	direction	NE
+2018-06-01	08h05mn01s	temperature	20	°C
+2018-06-01	08h05mn05s	humidite	74	%
+2018-06-01	08h05mn10s	vitesse		11	km/h
+2018-06-01	08h05mn15s	direction	N
+2018-06-01	09h05mn01s	temperature	20	°C
+2018-06-01	09h05mn05s	humidite	72	%
+2018-06-01	09h05mn10s	vitesse		10	km/h
+2018-06-01	09h05mn15s	direction	N
+2018-06-01	10h05mn01s	temperature	21	°C
+2018-06-01	10h05mn05s	humidite	72	%
+2018-06-01	10h05mn10s	vitesse		9	km/h
+2018-06-01	10h05mn15s	direction	N
+2018-06-01	11h05mn01s	temperature	22	°C
+2018-06-01	11h05mn05s	humidite	71	%
+2018-06-01	11h05mn10s	vitesse		6	km/h
+2018-06-01	11h05mn15s	direction	N
+2018-06-01	12h05mn01s	temperature	23	°C
+2018-06-01	12h05mn05s	humidite	70	%
+2018-06-01	12h05mn10s	vitesse		5	km/h
+2018-06-01	12h05mn15s	direction	NE
+2018-06-01	13h05mn01s	temperature	24	°C
+2018-06-01	13h05mn05s	humidite	70	%
+2018-06-01	13h05mn10s	vitesse		6	km/h
+2018-06-01	13h05mn15s	direction	E
+2018-06-01	14h05mn01s	temperature	26	°C
+2018-06-01	14h05mn05s	humidite	68	%
+2018-06-01	14h05mn10s	vitesse		7	km/h
+2018-06-01	14h05mn15s	direction	E
+2018-06-01	15h05mn01s	temperature	28	°C
+2018-06-01	15h05mn05s	humidite	65	%
+2018-06-01	15h05mn10s	vitesse		6	km/h
+2018-06-01	15h05mn15s	direction	NE
+2018-06-01	16h05mn01s	temperature	29	°C
+2018-06-01	16h05mn05s	humidite	62	%
+2018-06-01	16h05mn10s	vitesse		3	km/h
+2018-06-01	16h05mn15s	direction	N
+2018-06-01	17h05mn01s	temperature	30	°C
+2018-06-01	17h05mn05s	humidite	63	%
+2018-06-01	17h05mn10s	vitesse		5	km/h
+2018-06-01	17h05mn15s	direction	N
+2018-06-01	18h05mn01s	temperature	29	°C
+2018-06-01	18h05mn05s	humidite	67	%
+2018-06-01	18h05mn10s	vitesse		6	km/h
+2018-06-01	18h05mn15s	direction	NO
+2018-06-01	19h05mn01s	temperature	28	°C
+2018-06-01	19h05mn05s	humidite	68	%
+2018-06-01	19h05mn10s	vitesse		7	km/h
+2018-06-01	19h05mn15s	direction	NO
+2018-06-01	20h05mn01s	temperature	26	°C
+2018-06-01	20h05mn05s	humidite	70	%
+2018-06-01	20h05mn10s	vitesse		5	km/h
+2018-06-01	20h05mn15s	direction	NO
+2018-06-01	21h05mn01s	temperature	23	°C
+2018-06-01	21h05mn05s	humidite	71	%
+2018-06-01	21h05mn10s	vitesse		5	km/h
+2018-06-01	21h05mn15s	direction	NO
+2018-06-01	22h05mn01s	temperature	20	°C
+2018-06-01	22h05mn05s	humidite	73	%
+2018-06-01	22h05mn10s	vitesse		7	km/h
+2018-06-01	22h05mn15s	direction	NO
+2018-06-01	23h05mn01s	temperature	19	°C
+2018-06-01	23h05mn05s	humidite	73	%
+2018-06-01	23h05mn10s	vitesse		6	km/h
+2018-06-01	23h05mn15s	direction	O
+2018-06-02	00h05mn01s	temperature	17	°C
+2018-06-02	00h05mn05s	humidite	71	%
+2018-06-02	00h05mn10s	vitesse		8	km/h
+2018-06-02	00h05mn15s	direction	O
+2018-06-02	01h05mn01s	temperature	16	°C
+2018-06-02	01h05mn05s	humidite	73	%
+2018-06-02	01h05mn10s	vitesse		8	km/h
+2018-06-02	01h05mn15s	direction	NE
+2018-06-02	02h05mn01s	temperature	16	°C
+2018-06-02	02h05mn05s	humidite	75	%
+2018-06-02	02h05mn10s	vitesse		9	km/h
+2018-06-02	02h05mn15s	direction	NE
+2018-06-02	03h05mn01s	temperature	17	°C
+2018-06-02	03h05mn05s	humidite	72	%
+2018-06-02	03h05mn10s	vitesse		7	km/h
+2018-06-02	03h05mn15s	direction	N
+2018-06-02	04h05mn00s	temperature	18	°C
+2018-06-02	04h05mn05s	humidite	75	%
+2018-06-02	04h05mn10s	vitesse		7	km/h
+2018-06-02	04h05mn15s	direction	N
+2018-06-02	05h05mn01s	temperature	19	°C
+2018-06-02	05h05mn05s	humidite	74	%
+2018-06-02	05h05mn10s	vitesse		7	km/h
+2018-06-02	05h05mn15s	direction	NE
+2018-06-02	06h05mn01s	temperature	19	°C
+2018-06-02	06h05mn05s	humidite	78	%
+2018-06-02	06h05mn10s	vitesse		5	km/h
+2018-06-02	06h05mn15s	direction	NE
+2018-06-02	07h05mn01s	temperature	18	°C
+2018-06-02	07h05mn05s	humidite	80	%
+2018-06-02	07h05mn10s	vitesse		8	km/h
+2018-06-02	07h05mn15s	direction	NE
+2018-06-02	08h05mn01s	temperature	20	°C
+2018-06-02	08h05mn05s	humidite	74	%
+2018-06-02	08h05mn10s	vitesse		6	km/h
+2018-06-02	08h05mn15s	direction	N
+2018-06-02	09h05mn01s	temperature	20	°C
+2018-06-02	09h05mn05s	humidite	72	%
+2018-06-02	09h05mn10s	vitesse		10	km/h
+2018-06-02	09h05mn15s	direction	N
+2018-06-02	10h05mn01s	temperature	21	°C
+2018-06-02	10h05mn05s	humidite	70	%
+2018-06-02	10h05mn10s	vitesse		9	km/h
+2018-06-02	10h05mn15s	direction	N
+2018-06-02	11h05mn01s	temperature	22	°C
+2018-06-02	11h05mn05s	humidite	69	%
+2018-06-02	11h05mn10s	vitesse		6	km/h
+2018-06-02	11h05mn15s	direction	N
+2018-06-02	12h05mn01s	temperature	25	°C
+2018-06-02	12h05mn05s	humidite	69	%
+2018-06-02	12h05mn10s	vitesse		5	km/h
+2018-06-02	12h05mn15s	direction	NE
+2018-06-02	13h05mn01s	temperature	27	°C
+2018-06-02	13h05mn05s	humidite	66	%
+2018-06-02	13h05mn10s	vitesse		6	km/h
+2018-06-02	13h05mn15s	direction	E
+2018-06-02	14h05mn01s	temperature	30	°C
+2018-06-02	14h05mn05s	humidite	63	%
+2018-06-02	14h05mn10s	vitesse		7	km/h
+2018-06-02	14h05mn15s	direction	N
+2018-06-02	15h05mn01s	temperature	31	°C
+2018-06-02	15h05mn05s	humidite	61	%
+2018-06-02	15h05mn10s	vitesse		6	km/h
+2018-06-02	15h05mn15s	direction	NE
+2018-06-02	16h05mn01s	temperature	28	°C
+2018-06-02	16h05mn05s	humidite	62	%
+2018-06-02	16h05mn10s	vitesse		3	km/h
+2018-06-02	16h05mn15s	direction	N
+2018-06-02	17h05mn01s	temperature	30	°C
+2018-06-02	17h05mn05s	humidite	63	%
+2018-06-02	17h05mn10s	vitesse		5	km/h
+2018-06-02	17h05mn15s	direction	N
+2018-06-02	18h05mn01s	temperature	29	°C
+2018-06-02	18h05mn05s	humidite	67	%
+2018-06-02	18h05mn10s	vitesse		6	km/h
+2018-06-02	18h05mn15s	direction	NO
+2018-06-02	19h05mn01s	temperature	28	°C
+2018-06-02	19h05mn05s	humidite	68	%
+2018-06-02	19h05mn10s	vitesse		7	km/h
+2018-06-02	19h05mn15s	direction	NO
+2018-06-02	20h05mn01s	temperature	26	°C
+2018-06-02	20h05mn05s	humidite	70	%
+2018-06-02	20h05mn10s	vitesse		5	km/h
+2018-06-02	20h05mn15s	direction	NO
+2018-06-02	21h05mn01s	temperature	23	°C
+2018-06-02	21h05mn05s	humidite	71	%
+2018-06-02	21h05mn10s	vitesse		5	km/h
+2018-06-02	21h05mn15s	direction	NO
+2018-06-02	22h05mn01s	temperature	20	°C
+2018-06-02	22h05mn05s	humidite	73	%
+2018-06-02	22h05mn10s	vitesse		7	km/h
+2018-06-02	22h05mn15s	direction	NO
+2018-06-02	23h05mn01s	temperature	19	°C
+2018-06-02	23h05mn05s	humidite	73	%
+2018-06-02	23h05mn10s	vitesse		6	km/h
+2018-06-02	23h05mn15s	direction	O
+2018-06-03	00h05mn01s	temperature	18	°C
+2018-06-03	00h05mn05s	humidite	71	%
+2018-06-03	00h05mn10s	vitesse		7	km/h
+2018-06-03	00h05mn15s	direction	E
+2018-06-03	01h05mn01s	temperature	18	°C
+2018-06-03	01h05mn05s	humidite	73	%
+2018-06-03	01h05mn10s	vitesse		8	km/h
+2018-06-03	01h05mn15s	direction	E
+2018-06-03	02h05mn01s	temperature	17	°C
+2018-06-03	02h05mn05s	humidite	75	%
+2018-06-03	02h05mn10s	vitesse		9	km/h
+2018-06-03	02h05mn15s	direction	SE
+2018-06-03	03h05mn01s	temperature	19	°C
+2018-06-03	03h05mn05s	humidite	72	%
+2018-06-03	03h05mn10s	vitesse		8	km/h
+2018-06-03	03h05mn15s	direction	SE
+2018-06-03	04h05mn00s	temperature	19	°C
+2018-06-03	04h05mn05s	humidite	71	%
+2018-06-03	04h05mn10s	vitesse		5	km/h
+2018-06-03	04h05mn15s	direction	SE
+2018-06-03	05h05mn01s	temperature	19	°C
+2018-06-03	05h05mn05s	humidite	69	%
+2018-06-03	05h05mn10s	vitesse		7	km/h
+2018-06-03	05h05mn15s	direction	SE
+2018-06-03	06h05mn01s	temperature	20	°C
+2018-06-03	06h05mn05s	humidite	70	%
+2018-06-03	06h05mn10s	vitesse		5	km/h
+2018-06-03	06h05mn15s	direction	SE
+2018-06-03	07h05mn01s	temperature	20	°C
+2018-06-03	07h05mn05s	humidite	69	%
+2018-06-03	07h05mn10s	vitesse		6	km/h
+2018-06-03	07h05mn15s	direction	S
+2018-06-03	08h05mn01s	temperature	20	°C
+2018-06-03	08h05mn05s	humidite	68	%
+2018-06-03	08h05mn10s	vitesse		9	km/h
+2018-06-03	08h05mn15s	direction	S
+2018-06-03	09h05mn01s	temperature	21	°C
+2018-06-03	09h05mn05s	humidite	68	%
+2018-06-03	09h05mn10s	vitesse		10	km/h
+2018-06-03	09h05mn15s	direction	S
+2018-06-03	10h05mn01s	temperature	21	°C
+2018-06-03	10h05mn05s	humidite	69	%
+2018-06-03	10h05mn10s	vitesse		9	km/h
+2018-06-03	10h05mn15s	direction	SE
+2018-06-03	11h05mn01s	temperature	22	°C
+2018-06-03	11h05mn05s	humidite	67	%
+2018-06-03	11h05mn10s	vitesse		6	km/h
+2018-06-03	11h05mn15s	direction	S
+2018-06-03	12h05mn01s	temperature	23	°C
+2018-06-03	12h05mn05s	humidite	65	%
+2018-06-03	12h05mn10s	vitesse		5	km/h
+2018-06-03	12h05mn15s	direction	S
+2018-06-03	13h05mn01s	temperature	25	°C
+2018-06-03	13h05mn05s	humidite	62	%
+2018-06-03	13h05mn10s	vitesse		7	km/h
+2018-06-03	13h05mn15s	direction	S
+2018-06-03	14h05mn01s	temperature	27	°C
+2018-06-03	14h05mn05s	humidite	60	%
+2018-06-03	14h05mn10s	vitesse		7	km/h
+2018-06-03	14h05mn15s	direction	SE
+2018-06-03	15h05mn01s	temperature	30	°C
+2018-06-03	15h05mn05s	humidite	60	%
+2018-06-03	15h05mn10s	vitesse		6	km/h
+2018-06-03	15h05mn15s	direction	S
+2018-06-03	16h05mn01s	temperature	29	°C
+2018-06-03	16h05mn05s	humidite	62	%
+2018-06-03	16h05mn10s	vitesse		3	km/h
+2018-06-03	16h05mn15s	direction	S
+2018-06-03	17h05mn01s	temperature	30	°C
+2018-06-03	17h05mn05s	humidite	63	%
+2018-06-03	17h05mn10s	vitesse		3	km/h
+2018-06-03	17h05mn15s	direction	SE
+2018-06-03	18h05mn01s	temperature	30	°C
+2018-06-03	18h05mn05s	humidite	63	%
+2018-06-03	18h05mn10s	vitesse		4	km/h
+2018-06-03	18h05mn15s	direction	SE
+2018-06-03	19h05mn01s	temperature	27	°C
+2018-06-03	19h05mn05s	humidite	64	%
+2018-06-03	19h05mn10s	vitesse		7	km/h
+2018-06-03	19h05mn15s	direction	S
+2018-06-03	20h05mn01s	temperature	26	°C
+2018-06-03	20h05mn05s	humidite	63	%
+2018-06-03	20h05mn10s	vitesse		5	km/h
+2018-06-03	20h05mn15s	direction	S
+2018-06-03	21h05mn01s	temperature	25	°C
+2018-06-03	21h05mn05s	humidite	64	%
+2018-06-03	21h05mn10s	vitesse		5	km/h
+2018-06-03	21h05mn15s	direction	SE
+2018-06-03	22h05mn01s	temperature	24	°C
+2018-06-03	22h05mn05s	humidite	63	%
+2018-06-03	22h05mn10s	vitesse		7	km/h
+2018-06-03	22h05mn15s	direction	S
+2018-06-03	23h05mn01s	temperature	22	°C
+2018-06-03	23h05mn05s	humidite	63	%
+2018-06-03	23h05mn10s	vitesse		6	km/h
+2018-06-03	23h05mn15s	direction	S
+2018-06-04	00h05mn01s	temperature	21	°C
+2018-06-04	00h05mn05s	humidite	64	%
+2018-06-04	00h05mn10s	vitesse		8	km/h
+2018-06-04	00h05mn15s	direction	SE
+2018-06-04	01h05mn01s	temperature	20	°C
+2018-06-04	01h05mn05s	humidite	66	%
+2018-06-04	01h05mn10s	vitesse		4	km/h
+2018-06-04	01h05mn15s	direction	E
+2018-06-04	02h05mn01s	temperature	19	°C
+2018-06-04	02h05mn05s	humidite	67	%
+2018-06-04	02h05mn10s	vitesse		9	km/h
+2018-06-04	02h05mn15s	direction	NE
+2018-06-04	03h05mn01s	temperature	19	°C
+2018-06-04	03h05mn05s	humidite	66	%
+2018-06-04	03h05mn10s	vitesse		7	km/h
+2018-06-04	03h05mn15s	direction	NE
+2018-06-04	04h05mn00s	temperature	19	°C
+2018-06-04	04h05mn05s	humidite	65	%
+2018-06-04	04h05mn10s	vitesse		7	km/h
+2018-06-04	04h05mn15s	direction	E
+2018-06-04	05h05mn01s	temperature	19	°C
+2018-06-04	05h05mn05s	humidite	68	%
+2018-06-04	05h05mn10s	vitesse		7	km/h
+2018-06-04	05h05mn15s	direction	NE
+2018-06-04	06h05mn01s	temperature	20	°C
+2018-06-04	06h05mn05s	humidite	69	%
+2018-06-04	06h05mn10s	vitesse		5	km/h
+2018-06-04	06h05mn15s	direction	NE
+2018-06-04	07h05mn01s	temperature	20	°C
+2018-06-04	07h05mn05s	humidite	70	%
+2018-06-04	07h05mn10s	vitesse		8	km/h
+2018-06-04	07h05mn15s	direction	NE
+2018-06-04	08h05mn01s	temperature	20	°C
+2018-06-04	08h05mn05s	humidite	72	%
+2018-06-04	08h05mn10s	vitesse		6	km/h
+2018-06-04	08h05mn15s	direction	N
+2018-06-04	09h05mn01s	temperature	20	°C
+2018-06-04	09h05mn05s	humidite	74	%
+2018-06-04	09h05mn10s	vitesse		7	km/h
+2018-06-04	09h05mn15s	direction	N
+2018-06-04	10h05mn01s	temperature	21	°C
+2018-06-04	10h05mn05s	humidite	73	%
+2018-06-04	10h05mn10s	vitesse		9	km/h
+2018-06-04	10h05mn15s	direction	N
+2018-06-04	11h05mn01s	temperature	22	°C
+2018-06-04	11h05mn05s	humidite	74	%
+2018-06-04	11h05mn10s	vitesse		6	km/h
+2018-06-04	11h05mn15s	direction	N
+2018-06-04	12h05mn01s	temperature	23	°C
+2018-06-04	12h05mn05s	humidite	78	%
+2018-06-04	12h05mn10s	vitesse		5	km/h
+2018-06-04	12h05mn15s	direction	NE
+2018-06-04	13h05mn01s	temperature	23	°C
+2018-06-04	13h05mn05s	humidite	82	%
+2018-06-04	13h05mn10s	vitesse		6	km/h
+2018-06-04	13h05mn15s	direction	N
+2018-06-04	14h05mn01s	temperature	24	°C
+2018-06-04	14h05mn05s	humidite	84	%
+2018-06-04	14h05mn10s	vitesse		7	km/h
+2018-06-04	14h05mn15s	direction	N
+2018-06-04	15h05mn01s	temperature	25	°C
+2018-06-04	15h05mn05s	humidite	82	%
+2018-06-04	15h05mn10s	vitesse		6	km/h
+2018-06-04	15h05mn15s	direction	NE
+2018-06-04	16h05mn01s	temperature	24	°C
+2018-06-04	16h05mn05s	humidite	80	%
+2018-06-04	16h05mn10s	vitesse		3	km/h
+2018-06-04	16h05mn15s	direction	N
+2018-06-04	17h05mn01s	temperature	23	°C
+2018-06-04	17h05mn05s	humidite	80	%
+2018-06-04	17h05mn10s	vitesse		5	km/h
+2018-06-04	17h05mn15s	direction	N
+2018-06-04	18h05mn01s	temperature	22	°C
+2018-06-04	18h05mn05s	humidite	77	%
+2018-06-04	18h05mn10s	vitesse		6	km/h
+2018-06-04	18h05mn15s	direction	NE
+2018-06-04	19h05mn01s	temperature	21	°C
+2018-06-04	19h05mn05s	humidite	75	%
+2018-06-04	19h05mn10s	vitesse		7	km/h
+2018-06-04	19h05mn15s	direction	N
+2018-06-04	20h05mn01s	temperature	19	°C
+2018-06-04	20h05mn05s	humidite	70	%
+2018-06-04	20h05mn10s	vitesse		5	km/h
+2018-06-04	20h05mn15s	direction	N
+2018-06-04	21h05mn01s	temperature	18	°C
+2018-06-04	21h05mn05s	humidite	69	%
+2018-06-04	21h05mn10s	vitesse		5	km/h
+2018-06-04	21h05mn15s	direction	NO
+2018-06-04	22h05mn01s	temperature	17	°C
+2018-06-04	22h05mn05s	humidite	70	%
+2018-06-04	22h05mn10s	vitesse		7	km/h
+2018-06-04	22h05mn15s	direction	NO
+2018-06-04	23h05mn01s	temperature	16	°C
+2018-06-04	23h05mn05s	humidite	73	%
+2018-06-04	23h05mn10s	vitesse		6	km/h
+2018-06-04	23h05mn15s	direction	O
+2018-06-05	00h05mn01s	temperature	14	°C
+2018-06-05	00h05mn05s	humidite	68	%
+2018-06-05	00h05mn10s	vitesse		3	km/h
+2018-06-05	00h05mn15s	direction	N
+2018-06-05	01h05mn01s	temperature	14	°C
+2018-06-05	01h05mn05s	humidite	69	%
+2018-06-05	01h05mn10s	vitesse		4	km/h
+2018-06-05	01h05mn15s	direction	NE
+2018-06-05	02h05mn01s	temperature	13	°C
+2018-06-05	02h05mn05s	humidite	67	%
+2018-06-05	02h05mn10s	vitesse		3	km/h
+2018-06-05	02h05mn15s	direction	N
+2018-06-05	03h05mn01s	temperature	13	°C
+2018-06-05	03h05mn05s	humidite	68	%
+2018-06-05	03h05mn10s	vitesse		7	km/h
+2018-06-05	03h05mn15s	direction	NE
+2018-06-05	04h05mn00s	temperature	14	°C
+2018-06-05	04h05mn05s	humidite	69	%
+2018-06-05	04h05mn10s	vitesse		5	km/h
+2018-06-05	04h05mn15s	direction	NE
+2018-06-05	05h05mn01s	temperature	14	°C
+2018-06-05	05h05mn05s	humidite	69	%
+2018-06-05	05h05mn10s	vitesse		6	km/h
+2018-06-05	05h05mn15s	direction	N
+2018-06-05	06h05mn01s	temperature	15	°C
+2018-06-05	06h05mn05s	humidite	70	%
+2018-06-05	06h05mn10s	vitesse		5	km/h
+2018-06-05	06h05mn15s	direction	NE
+2018-06-05	07h05mn01s	temperature	15	°C
+2018-06-05	07h05mn05s	humidite	70	%
+2018-06-05	07h05mn10s	vitesse		6	km/h
+2018-06-05	07h05mn15s	direction	NE
+2018-06-05	08h05mn01s	temperature	14	°C
+2018-06-05	08h05mn05s	humidite	74	%
+2018-06-05	08h05mn10s	vitesse		9	km/h
+2018-06-05	08h05mn15s	direction	NO
+2018-06-05	09h05mn01s	temperature	15	°C
+2018-06-05	09h05mn05s	humidite	72	%
+2018-06-05	09h05mn10s	vitesse		10	km/h
+2018-06-05	09h05mn15s	direction	O
+2018-06-05	10h05mn01s	temperature	16	°C
+2018-06-05	10h05mn05s	humidite	76	%
+2018-06-05	10h05mn10s	vitesse		9	km/h
+2018-06-05	10h05mn15s	direction	O
+2018-06-05	11h05mn01s	temperature	16	°C
+2018-06-05	11h05mn05s	humidite	75	%
+2018-06-05	11h05mn10s	vitesse		6	km/h
+2018-06-05	11h05mn15s	direction	NO
+2018-06-05	12h05mn01s	temperature	16	°C
+2018-06-05	12h05mn05s	humidite	76	%
+2018-06-05	12h05mn10s	vitesse		5	km/h
+2018-06-05	12h05mn15s	direction	N
+2018-06-05	13h05mn01s	temperature	17	°C
+2018-06-05	13h05mn05s	humidite	76	%
+2018-06-05	13h05mn10s	vitesse		6	km/h
+2018-06-05	13h05mn15s	direction	NO
+2018-06-05	14h05mn01s	temperature	17	°C
+2018-06-05	14h05mn05s	humidite	NO	%
+2018-06-05	14h05mn10s	vitesse		7	km/h
+2018-06-05	14h05mn15s	direction	NE
+2018-06-05	15h05mn01s	temperature	18	°C
+2018-06-05	15h05mn05s	humidite	72	%
+2018-06-05	15h05mn10s	vitesse		8	km/h
+2018-06-05	15h05mn15s	direction	NE
+2018-06-05	16h05mn01s	temperature	19	°C
+2018-06-05	16h05mn05s	humidite	72	%
+2018-06-05	16h05mn10s	vitesse		5	km/h
+2018-06-05	16h05mn15s	direction	NE
+2018-06-05	17h05mn01s	temperature	18	°C
+2018-06-05	17h05mn05s	humidite	71	%
+2018-06-05	17h05mn10s	vitesse		5	km/h
+2018-06-05	17h05mn15s	direction	N
+2018-06-05	18h05mn01s	temperature	18	°C
+2018-06-05	18h05mn05s	humidite	70	%
+2018-06-05	18h05mn10s	vitesse		6	km/h
+2018-06-05	18h05mn15s	direction	N
+2018-06-05	19h05mn01s	temperature	18	°C
+2018-06-05	19h05mn05s	humidite	71	%
+2018-06-05	19h05mn10s	vitesse		4	km/h
+2018-06-05	19h05mn15s	direction	NO
+2018-06-05	20h05mn01s	temperature	17	°C
+2018-06-05	20h05mn05s	humidite	69	%
+2018-06-05	20h05mn10s	vitesse		5	km/h
+2018-06-05	20h05mn15s	direction	NO
+2018-06-05	21h05mn01s	temperature	17	°C
+2018-06-05	21h05mn05s	humidite	70	%
+2018-06-05	21h05mn10s	vitesse		5	km/h
+2018-06-05	21h05mn15s	direction	NO
+2018-06-05	22h05mn01s	temperature	16	°C
+2018-06-05	22h05mn05s	humidite	69	%
+2018-06-05	22h05mn10s	vitesse		7	km/h
+2018-06-05	22h05mn15s	direction	NO
+2018-06-05	23h05mn01s	temperature	15	°C
+2018-06-05	23h05mn05s	humidite	69	%
+2018-06-05	23h05mn10s	vitesse		6	km/h
+2018-06-05	23h05mn15s	direction	O
+2018-06-06	00h05mn01s	temperature	17	°C
+2018-06-06	00h05mn05s	humidite	71	%
+2018-06-06	00h05mn10s	vitesse		10	km/h
+2018-06-06	00h05mn15s	direction	O
+2018-06-06	01h05mn01s	temperature	16	°C
+2018-06-06	01h05mn05s	humidite	73	%
+2018-06-06	01h05mn10s	vitesse		11	km/h
+2018-06-06	01h05mn15s	direction	NE
+2018-06-06	02h05mn01s	temperature	16	°C
+2018-06-06	02h05mn05s	humidite	75	%
+2018-06-06	02h05mn10s	vitesse		10	km/h
+2018-06-06	02h05mn15s	direction	NE
+2018-06-06	03h05mn01s	temperature	17	°C
+2018-06-06	03h05mn05s	humidite	72	%
+2018-06-06	03h05mn10s	vitesse		10	km/h
+2018-06-06	03h05mn15s	direction	N
+2018-06-06	04h05mn00s	temperature	18	°C
+2018-06-06	04h05mn05s	humidite	75	%
+2018-06-06	04h05mn10s	vitesse		10	km/h
+2018-06-06	04h05mn15s	direction	N
+2018-06-06	05h05mn01s	temperature	19	°C
+2018-06-06	05h05mn05s	humidite	74	%
+2018-06-06	05h05mn10s	vitesse		7	km/h
+2018-06-06	05h05mn15s	direction	NE
+2018-06-06	06h05mn01s	temperature	19	°C
+2018-06-06	06h05mn05s	humidite	78	%
+2018-06-06	06h05mn10s	vitesse		8	km/h
+2018-06-06	06h05mn15s	direction	NE
+2018-06-06	07h05mn01s	temperature	18	°C
+2018-06-06	07h05mn05s	humidite	80	%
+2018-06-06	07h05mn10s	vitesse		8	km/h
+2018-06-06	07h05mn15s	direction	NE
+2018-06-06	08h05mn01s	temperature	20	°C
+2018-06-06	08h05mn05s	humidite	74	%
+2018-06-06	08h05mn10s	vitesse		10	km/h
+2018-06-06	08h05mn15s	direction	N
+2018-06-06	09h05mn01s	temperature	20	°C
+2018-06-06	09h05mn05s	humidite	72	%
+2018-06-06	09h05mn10s	vitesse		10	km/h
+2018-06-06	09h05mn15s	direction	N
+2018-06-06	10h05mn01s	temperature	21	°C
+2018-06-06	10h05mn05s	humidite	70	%
+2018-06-06	10h05mn10s	vitesse		12	km/h
+2018-06-06	10h05mn15s	direction	N
+2018-06-06	11h05mn01s	temperature	22	°C
+2018-06-06	11h05mn05s	humidite	69	%
+2018-06-06	11h05mn10s	vitesse		15	km/h
+2018-06-06	11h05mn15s	direction	N
+2018-06-06	12h05mn01s	temperature	25	°C
+2018-06-06	12h05mn05s	humidite	69	%
+2018-06-06	12h05mn10s	vitesse		10	km/h
+2018-06-06	12h05mn15s	direction	NE
+2018-06-06	13h05mn01s	temperature	27	°C
+2018-06-06	13h05mn05s	humidite	66	%
+2018-06-06	13h05mn10s	vitesse		8	km/h
+2018-06-06	13h05mn15s	direction	E
+2018-06-06	14h05mn01s	temperature	30	°C
+2018-06-06	14h05mn05s	humidite	63	%
+2018-06-06	14h05mn10s	vitesse		7	km/h
+2018-06-06	14h05mn15s	direction	N
+2018-06-06	15h05mn01s	temperature	31	°C
+2018-06-06	15h05mn05s	humidite	61	%
+2018-06-06	15h05mn10s	vitesse		8	km/h
+2018-06-06	15h05mn15s	direction	NE
+2018-06-06	16h05mn01s	temperature	28	°C
+2018-06-06	16h05mn05s	humidite	62	%
+2018-06-06	16h05mn10s	vitesse		8	km/h
+2018-06-06	16h05mn15s	direction	N
+2018-06-06	17h05mn01s	temperature	30	°C
+2018-06-06	17h05mn05s	humidite	63	%
+2018-06-06	17h05mn10s	vitesse		10	km/h
+2018-06-06	17h05mn15s	direction	N
+2018-06-06	18h05mn01s	temperature	29	°C
+2018-06-06	18h05mn05s	humidite	67	%
+2018-06-06	18h05mn10s	vitesse		9	km/h
+2018-06-06	18h05mn15s	direction	NO
+2018-06-06	19h05mn01s	temperature	28	°C
+2018-06-06	19h05mn05s	humidite	68	%
+2018-06-06	19h05mn10s	vitesse		8	km/h
+2018-06-06	19h05mn15s	direction	NO
+2018-06-06	20h05mn01s	temperature	26	°C
+2018-06-06	20h05mn05s	humidite	70	%
+2018-06-06	20h05mn10s	vitesse		10	km/h
+2018-06-06	20h05mn15s	direction	NO
+2018-06-06	21h05mn01s	temperature	23	°C
+2018-06-06	21h05mn05s	humidite	71	%
+2018-06-06	21h05mn10s	vitesse		7	km/h
+2018-06-06	21h05mn15s	direction	NO
+2018-06-06	22h05mn01s	temperature	20	°C
+2018-06-06	22h05mn05s	humidite	73	%
+2018-06-06	22h05mn10s	vitesse		7	km/h
+2018-06-06	22h05mn15s	direction	NO
+2018-06-06	23h05mn01s	temperature	19	°C
+2018-06-06	23h05mn05s	humidite	73	%
+2018-06-06	23h05mn10s	vitesse		5	km/h
+2018-06-06	23h05mn15s	direction	O
